@@ -65,3 +65,8 @@ Yêu cầu 4:
   - Ngược lại sẽ là đi xuống và chuyển bounding box thành màu vàng.
 
 # Kết quả
+![alt text](anh1.png)
+
+![alt text](anh2.png)
+
+Xem chi tiết hơn tại video output.mp4
